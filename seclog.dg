@@ -1,0 +1,59 @@
+Security Log for E157785    at 22-MAR-23 14:13:10 
+
+23-NOV-21 18:47 SEC -001 Security Config Mismatch
+03-FEB-22 22:56 SEC -001 Security Config Mismatch
+03-FEB-22 23:35 SEC -001 Security Config Mismatch
+28-APR-22 18:29 SEC -001 Security Config Mismatch
+04-MAY-22 15:47 SEC -001 Security Config Mismatch
+04-MAY-22 15:49 SEC -001 Security Config Mismatch
+04-MAY-22 16:40 SEC -001 Security Config Mismatch
+04-MAY-22 19:46 SEC -001 Security Config Mismatch
+04-MAY-22 19:49 SEC -001 Security Config Mismatch
+04-MAY-22 19:55 SEC -001 Security Config Mismatch
+04-MAY-22 20:02 SEC -001 Security Config Mismatch
+04-MAY-22 21:57 SEC -001 Security Config Mismatch
+09-MAY-22 17:10 SEC -001 Security Config Mismatch
+07-JUN-22 21:49 SEC -001 Security Config Mismatch
+07-JUN-22 23:42 SEC -001 Security Config Mismatch
+08-JUN-22 22:01 SEC -001 Security Config Mismatch
+09-JUN-22 17:00 SEC -001 Security Config Mismatch
+09-JUN-22 19:20 SEC -001 Security Config Mismatch
+09-JUN-22 19:22 SEC -001 Security Config Mismatch
+09-JUN-22 19:37 SEC -001 Security Config Mismatch
+09-JUN-22 19:39 SEC -001 Security Config Mismatch
+09-JUN-22 20:04 SEC -001 Security Config Mismatch
+10-JUN-22 15:32 SEC -001 Security Config Mismatch
+11-JUN-22 16:12 SEC -001 Security Config Mismatch
+11-JUN-22 18:15 SEC -001 Security Config Mismatch
+12-JUN-22 16:29 SEC -001 Security Config Mismatch
+13-JUN-22 15:39 SEC -001 Security Config Mismatch
+14-JUN-22 07:20 SEC -001 Security Config Mismatch
+15-JUN-22 07:12 SEC -001 Security Config Mismatch
+22-JUN-22 15:24 SEC -001 Security Config Mismatch
+23-JUN-22 07:24 SEC -001 Security Config Mismatch
+24-JUN-22 07:35 SEC -001 Security Config Mismatch
+26-JUN-22 08:33 SEC -001 Security Config Mismatch
+27-JUN-22 08:02 SEC -001 Security Config Mismatch
+28-JUN-22 08:02 SEC -001 Security Config Mismatch
+28-JUN-22 08:04 SEC -001 Security Config Mismatch
+29-JUN-22 13:47 SEC -001 Security Config Mismatch
+29-JUN-22 14:13 SEC -001 Security Config Mismatch
+30-JUN-22 08:15 SEC -001 Security Config Mismatch
+30-JUN-22 10:26 SEC -001 Security Config Mismatch
+04-AUG-22 09:29 SEC -001 Security Config Mismatch
+06-AUG-22 10:18 SEC -001 Security Config Mismatch
+06-AUG-22 10:31 SEC -001 Security Config Mismatch
+17-AUG-22 16:15 SEC -001 Security Config Mismatch
+23-NOV-22 13:39 SEC -001 Security Config Mismatch
+07-DEC-22 11:15 SEC -001 Security Config Mismatch
+13-DEC-22 13:23 SEC -001 Security Config Mismatch
+14-DEC-22 09:36 SEC -001 Security Config Mismatch
+04-JAN-23 14:19 SEC -001 Security Config Mismatch
+11-JAN-23 12:37 SEC -001 Security Config Mismatch
+
+
+MAIN Security Log Filter:
+11-JAN-23 12:37:52  Task: SYIN logged error: SEC -001 occurred 1 times in 2147483.750000 seconds from 0.0.0.0
+
+
+COMM Security Log Filter is empty.
