@@ -1,0 +1,77 @@
+                       TP Accounting
+
+F Number: E157785   
+VERSION : HandlingTool         
+$VERSION: V9.30162       9/2/2021
+DATE:     22-MAR-23 14:13 
+
+Menu                         Elapsed Time         #Sel       #Keys
+                     (YY-MM-DD HH:MM:SS)
+Id:  962, 1                       02:30            4          45
+File                        21 22:49:48           58        6892
+Id:  381, 5                       08:40           36           0
+Home                              12:44           22          90
+Config                      01 02:45:14           39        1649
+Position Display               05:35:30          108        4090
+Alarm Log                02-17 03:42:06           20         141
+Axis                                 02            1           0
+Cell Intface                   01:08:26            7          83
+Robot                    03-01 20:00:50          227        8588
+USER                              54:26           71         747
+General                           01:38            4          46
+CC-Link                           03:00            5          36
+Digital                        05:54:38           48        4006
+Registers                      06:56:34          184        7909
+Position Reg                02 03:29:58          377       19724
+SELECT                   03-12 01:28:48         2446       70497
+Id:  1201, 1                         14            1           1
+Variables                         29:58           11        2314
+EDIT                     02-16 17:22:14         2347      127585
+Frames                            56:14           14        2140
+Notifications            02-12 00:37:06           35         158
+Hints                             27:30           15         108
+Port Init                            06            1           2
+Browser                           01:46            3          18
+UOP                               03:42            4         143
+BG Logic                          20:58           14         130
+Macro                             30:08            6         739
+Host Comm                         42:16            3         110
+Ref Position                   01:21:40           39        3769
+Id:  1163, 2                      21:54            3          11
+Prog Select                       02:40           10          40
+Robot Condition             29 00:05:42            4           9
+Macros                            01:52            5          19
+Space fnct.                 04 21:44:06           42        8503
+CC-Link                           01:54            1          10
+Flag                              25:10           35        3048
+Id:  35, 1                        02:44            2         269
+EDIT                           11:08:30            6           0
+Motion                            20:08            4         691
+KAREL Posns                          24            4          12
+Axis Limits                          36            2           3
+Clock                             03:06            5          80
+String Reg                        09:44            9         165
+Tool1                             10:08           10          42
+Tool2                                14            3           2
+Coll Guard                           22            2          66
+Id:  381, 26                02 18:03:10            1          84
+Customer Register           05 20:28:34            8          45
+Reminder                             04            1           1
+Ovrd Select                          16            1           2
+Group                             06:58            3         190
+Analog                               02            1           0
+
+Full Menus:           01-04-03 19:27:20 
+Quick Menus:                         00 
+
+MENU Popup:                                      775
+[ TYPE ] Pullup:                                 162
+
+Functions at COLD start
+ABORT (ALL)                                      170
+SAVE                                               3
+PRINT SCREEN                                       1
+CYCLE POWER                                        3
+
+Functions at CTRL start
+START (COLD)                                       4
