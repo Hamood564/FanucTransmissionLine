@@ -1,0 +1,145 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 23-NOV-21 18:48:08  7fae Power Cycle 
+KEY   72 23-NOV-21 18:49:00  e23e /wizard/guided/steps Initial Setup
+KEY   72 23-NOV-21 18:49:00  e23e /wizard/guided/steps Initial Setup
+KEY   72 23-NOV-21 18:49:42  351c /wizard/guided/steps Initial Setup
+EXIT  72 23-NOV-21 18:49:42  351e 34 6 
+POWR  72 03-FEB-22 22:56:56  30f1 Power Cycle 
+POWR  72 03-FEB-22 23:35:42  3105 Power Cycle 
+HOME  72 03-FEB-22 23:54:02  9407 flexuif_home_c Hardkey 
+KEY   72 03-FEB-22 23:54:02  94c3 /wizard/guided/steps Initial Setup
+KEY   72 03-FEB-22 23:54:36  d5f8 /wizard/guided/steps Initial Setup
+EXIT  72 03-FEB-22 23:54:36  d5f9 34 6 
+POWR  72 28-APR-22 18:29:18  30e5 Power Cycle 
+POWR  72 04-MAY-22 15:47:46  2ecb Power Cycle 
+POWR  72 04-MAY-22 15:49:12  30d7 Power Cycle 
+KEY   72 04-MAY-22 15:49:16  35c5 /wizard/guided/steps Initial Setup
+KEY   72 04-MAY-22 15:53:02  f088 /wizard/guided/steps Initial Setup
+KEY   72 04-MAY-22 15:55:08  e4e5 /wizard/guided/steps Initial Setup
+EXIT  72 04-MAY-22 15:55:08  e4e6 955 1 
+POWR  72 04-MAY-22 16:40:30  30dc Power Cycle 
+POWR  72 04-MAY-22 19:46:32  4f4a Power Cycle 
+POWR  72 04-MAY-22 19:49:24  3275 Power Cycle 
+KEY   72 04-MAY-22 19:49:28  35e5 /wizard/guided/steps Initial Setup
+KEY   72 04-MAY-22 19:49:46  58d6 /wizard/guided/steps Initial Setup
+EXIT  72 04-MAY-22 19:49:46  58d7 1089 1 
+POWR  72 04-MAY-22 19:56:06  4f93 Power Cycle 
+POWR  72 04-MAY-22 20:02:50  3260 Power Cycle 
+KEY   72 04-MAY-22 20:02:54  35e4 /wizard/guided/steps Initial Setup
+KEY   72 04-MAY-22 20:03:02  4669 /wizard/guided/steps Initial Setup
+EXIT  72 04-MAY-22 20:03:02  466a 74 1 
+POWR  72 04-MAY-22 21:57:24  311a Power Cycle 
+POWR  72 09-MAY-22 17:10:48  3140 Power Cycle 
+HOME  72 09-MAY-22 19:11:22  61ab flexuif_home_c Hardkey 
+KEY   72 09-MAY-22 19:11:24  62df /wizard/guided/steps Initial Setup
+KEY   72 09-MAY-22 19:11:28  6bb4 /wizard/guided/steps Initial Setup
+KEY   72 09-MAY-22 19:11:34  767f /wizard/guided/steps Initial Setup
+EXIT  72 09-MAY-22 19:11:34  7680 71 1 
+HOME  72 09-MAY-22 19:18:10  7ccb flexuif_home_c Hardkey 
+KEY   72 09-MAY-22 19:18:10  7db7 /wizard/guided/steps Initial Setup
+KEY   72 09-MAY-22 19:18:14  8423 /wizard/guided/steps Initial Setup
+EXIT  72 09-MAY-22 19:18:14  8424 71 1 
+KEY   72 09-MAY-22 21:57:06  3e8b /wizard/guided/steps Initial Setup
+KEY   72 09-MAY-22 21:57:14  4d60 /wizard/guided/steps Initial Setup
+EXIT  72 09-MAY-22 21:57:14  4d61 1196 4 
+POWR  72 07-JUN-22 21:49:10  3a35 Power Cycle 
+POWR  72 07-JUN-22 23:42:56  30c5 Power Cycle 
+POWR  72 08-JUN-22 22:01:14  30f1 Power Cycle 
+HOME  72 08-JUN-22 22:06:32  9d63 flexuif_home_c Hardkey 
+KEY   72 08-JUN-22 22:06:32  9e67 /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:06:58  d12c /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:07:00  d30c /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:07:00  d3e4 /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:07:08  e26d /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:07:08  e4c5 /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:07:12  ebac /wizard/guided/steps Initial Setup
+KEY   72 08-JUN-22 22:07:30   de5 /wizard/guided/steps Initial Setup
+NAV  150 08-JUN-22 22:07:52  3856 /nav/core/home/util/tutorial 
+KEY   72 08-JUN-22 22:07:52  385c /nav/core/home HOME
+NAV  150 08-JUN-22 22:07:56  40da /nav/core/tutorial/tutojog 
+KEY   72 08-JUN-22 22:07:56  40e0 /nav/core/tutorial TUTORIAL
+NAV  150 08-JUN-22 22:08:02  4c8a /wizard/tutojog/steps/EnableTeachPendant 
+KEY   72 08-JUN-22 22:08:02  4c8a /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+KEY   72 08-JUN-22 22:08:02  4d84 /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+NAV  150 08-JUN-22 22:08:08  57fb /wizard/tutojog/steps/SelectJointJog 
+KEY   72 08-JUN-22 22:08:08  57fb /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+KEY   72 08-JUN-22 22:08:08  58f5 /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+NAV  150 08-JUN-22 22:08:30  845f /wizard/tutojog/steps/JointJog_J1 
+KEY   72 08-JUN-22 22:08:30  845f /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+KEY   72 08-JUN-22 22:08:30  8559 /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+KEY   72 08-JUN-22 22:08:46  a24c /wizard/tutojog/steps TUTORIAL:JOG A ROBOT
+EXIT  72 08-JUN-22 22:08:46  a24d 200 1 
+POWR  72 09-JUN-22 17:00:14  39dd Power Cycle 
+POWR  72 09-JUN-22 19:20:46  4e54 Power Cycle 
+POWR  72 09-JUN-22 19:22:24  46b0 Power Cycle 
+KEY   72 09-JUN-22 19:22:26  4897 /wizard/guided/steps Initial Setup
+KEY   72 09-JUN-22 19:22:40  622c /wizard/guided/steps Initial Setup
+EXIT  72 09-JUN-22 19:22:40  622d 98 1 
+POWR  72 09-JUN-22 19:37:50  30dd Power Cycle 
+POWR  72 09-JUN-22 19:40:08  30dd Power Cycle 
+POWR  72 09-JUN-22 20:04:40  30f8 Power Cycle 
+POWR  72 10-JUN-22 15:32:18  31a9 Power Cycle 
+POWR  72 11-JUN-22 16:12:14  31ed Power Cycle 
+POWR  72 11-JUN-22 18:15:52  320d Power Cycle 
+HOME  72 11-JUN-22 19:37:14  6f13 flexuif_home_c Hardkey 
+KEY   72 11-JUN-22 19:37:16  701b /wizard/guided/steps Initial Setup
+KEY   72 11-JUN-22 19:37:20  791f /wizard/guided/steps Initial Setup
+EXIT  72 11-JUN-22 19:37:20  7920 34 3 
+POWR  72 12-JUN-22 16:30:08  417f Power Cycle 
+POWR  72 13-JUN-22 15:39:28  316b Power Cycle 
+POWR  72 14-JUN-22 07:20:22  3bf4 Power Cycle 
+POWR  72 15-JUN-22 07:12:36  3d1f Power Cycle 
+POWR  72 22-JUN-22 15:24:52  32c8 Power Cycle 
+POWR  72 23-JUN-22 07:25:06  3147 Power Cycle 
+POWR  72 24-JUN-22 07:35:16  322d Power Cycle 
+POWR  72 26-JUN-22 08:33:26  39df Power Cycle 
+POWR  72 27-JUN-22 08:02:32  3133 Power Cycle 
+POWR  72 28-JUN-22 08:02:34  317d Power Cycle 
+POWR  72 28-JUN-22 08:05:06  335a Power Cycle 
+POWR  72 29-JUN-22 13:47:10  3df1 Power Cycle 
+POWR  72 29-JUN-22 14:13:50  3103 Power Cycle 
+POWR  72 30-JUN-22 08:15:12  31c2 Power Cycle 
+POWR  72 30-JUN-22 10:26:38  3184 Power Cycle 
+POWR  72 04-AUG-22 09:29:34  3191 Power Cycle 
+POWR  72 06-AUG-22 10:18:50  4299 Power Cycle 
+POWR  72 06-AUG-22 10:31:44  30df Power Cycle 
+POWR  72 17-AUG-22 16:15:24  3e37 Power Cycle 
+POWR  72 23-NOV-22 13:40:00  3dba Power Cycle 
+POWR  72 07-DEC-22 11:15:50  3d85 Power Cycle 
+POWR  72 13-DEC-22 13:24:00  3e75 Power Cycle 
+HOME  72 14-DEC-22 09:29:42  26d3 flexuif_home_c Hardkey 
+KEY   72 14-DEC-22 09:29:42  2807 /wizard/guided/steps Initial Setup
+KEY   72 14-DEC-22 09:29:58  467b /nav/core/wizardkeys/f2 CANCEL
+KEY   72 14-DEC-22 09:30:04  53a7 /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:04  53ef /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:06  5747 /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:06  57a7 /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:08  59e3 /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:08  5a43 /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:10  5e2b /nav/core/home HOME
+NAV  150 14-DEC-22 09:30:10  5e6f /nav/core/home/teach/edit 
+KEY   72 14-DEC-22 09:30:10  5e75 /nav/core/home HOME
+KEY   72 14-DEC-22 09:30:10  5e76 /nav/core/home HOME
+EXIT  72 14-DEC-22 09:30:10  5e77 64 1 
+POWR  72 14-DEC-22 09:36:44  3128 Power Cycle 
+POWR  72 04-JAN-23 14:19:18  3eb7 Power Cycle 
+POWR  72 11-JAN-23 12:38:00  3d88 Power Cycle 
+HOME 103 16-FEB-23 17:26:28  9ffa flexuif_home_c Hardkey 
+KEY   72 16-FEB-23 17:26:28  a132 /wizard/guided/steps Initial Setup
+KEY   72 16-FEB-23 17:26:28  a1a6 /wizard/guided/steps Initial Setup
+KEY   72 16-FEB-23 17:26:46  c49b /wizard/guided/steps Initial Setup
+EXIT  72 16-FEB-23 17:26:46  c49c 1631 3 
+KEY   72 16-FEB-23 17:26:46  c5b6 /nav/core/tohome HOME
+KEY   72 16-FEB-23 17:26:48  c71a /nav/core/tohome HOME
+NAV  150 16-FEB-23 17:27:14  f977 /nav/core/tohome/gohome 
+KEY   72 16-FEB-23 17:27:14  f97d /nav/core/tohome HOME
+KEY   72 16-FEB-23 17:27:14  f97d /nav/core/home HOME
+EXIT  72 16-FEB-23 17:27:14  f97e 1631 1 
+KEY   72 16-FEB-23 17:27:14  fa2a /wizard/guided/steps Initial Setup
+KEY   72 16-FEB-23 17:27:14  fad2 /wizard/guided/steps Initial Setup
+KEY   72 16-FEB-23 17:27:18   46b /wizard/guided/steps Initial Setup
+EXIT  72 16-FEB-23 17:27:18   46c 1631 3 
+KEY   72 16-FEB-23 17:27:20   586 /nav/core/tohome HOME
+KEY   72 16-FEB-23 17:27:20   732 /nav/core/tohome HOME
+KEY   72 16-FEB-23 17:28:14  712e /nav/core/tohome HOME
+EXIT  72 16-FEB-23 17:28:14  712f 71 1 
